@@ -2,7 +2,7 @@
 ![Eu_fui_aceito_Curso_I2A2](https://github.com/user-attachments/assets/1694d30a-4633-4edb-9815-490306eee7bf)
 # I2A2
 
-Repositório do curso Agentes Autônomos com Redes Generativas.
+Repositório do curso Agentes Autônomos com Redes Generativas. I2A2 – Institut d’Intelligence Artificielle Appliquée - é um instituto canadense que capacita governos, empresas e comunidades com soluções que reduzem os desafios impostos pela IA e promovem sua integração responsável na sociedade.
 
 ## Objetivo
 Este curso objetiva capacitar profissionais dos mais diversos campos de atuação, tornando-os aptos para desenvolver ambientes contendo diversos agentes inteligentes, interagindo entre si e executam processos de negócios com a mínima intervenção humana.
